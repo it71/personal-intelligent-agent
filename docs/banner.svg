@@ -1,0 +1,10 @@
+<svg width="400" height="80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="80" fill="url(#grad)" rx="20"/>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="400" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7b2ff2"/>
+      <stop offset="1" stop-color="#f357a8"/>
+    </linearGradient>
+  </defs>
+  <text x="200" y="48" text-anchor="middle" font-size="32" fill="#fff" font-family="Roboto,Arial,sans-serif">Personal Agent</text>
+</svg>
