@@ -1,0 +1,6 @@
+# 默认配置示例
+db_uri: sqlite:///data.sqlite3
+openai_key: sk-xxxxxx
+web_port: 7860
+log_level: INFO
+locale: zh_CN
